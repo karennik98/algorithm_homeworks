@@ -1,0 +1,15 @@
+
+dynamic_programming/.vs/dynamic_programming/v15/.suo
+*.db
+*.ipch
+*.exe
+*.ilk
+*.pdb
+*.sln
+*.tlog
+*.log
+*.obj
+*.idb
+*.vcxproj
+*.user
+*.filters
