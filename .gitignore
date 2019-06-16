@@ -13,3 +13,6 @@ dynamic_programming/.vs/dynamic_programming/v15/.suo
 *.vcxproj
 *.user
 *.filters
+matrix_chain_multiplication/.vs/matrix_chain_multiplication/v15/.suo
+find_max_subarray_brute_force/.vs/find_max_subarray_brute_force/v15/.suo
+josephus_problem/.vs/josephus_problem/v15/.suo
