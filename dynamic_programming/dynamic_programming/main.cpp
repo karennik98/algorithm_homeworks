@@ -73,12 +73,13 @@ bool wordBreak(std::string str)
 
 int main()
 {
-	wordBreak("ilikesamsung") ? std::cout << "Yes\n" : std::cout << "No\n";
-	wordBreak("iiiiiiii") ? std::cout << "Yes\n" : std::cout << "No\n";
-	wordBreak("") ? std::cout << "Yes\n" : std::cout << "No\n";
+	wordBreak("ilikesamsung")       ? std::cout << "Yes\n" : std::cout << "No\n";
+	wordBreak("iiiiiiii")           ? std::cout << "Yes\n" : std::cout << "No\n";
+	wordBreak("")                   ? std::cout << "Yes\n" : std::cout << "No\n";
 	wordBreak("ilikelikeimangoiii") ? std::cout << "Yes\n" : std::cout << "No\n";
-	wordBreak("samsungandmango") ? std::cout << "Yes\n" : std::cout << "No\n";
-	wordBreak("samsungandmangok") ? std::cout << "Yes\n" : std::cout << "No\n";
+	wordBreak("samsungandmango")    ? std::cout << "Yes\n" : std::cout << "No\n";
+	wordBreak("samsungandmangok")   ? std::cout << "Yes\n" : std::cout << "No\n";
+
 	system("pause");
 	return 0;
 }
